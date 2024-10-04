@@ -7,8 +7,8 @@
 - Smoothed output mask after morphological post-processing
 
 ### Results
-- Loss: 0.055
-- F1 Score: 49.6%
+- Test Loss: 0.055
+- Test F1 Score: 49.6%
 
 **Train Validation performance**
 <img width="864" alt="Screenshot 2024-10-04 at 8 02 37 PM" src="https://github.com/user-attachments/assets/40e2137a-ca0f-42f2-93cb-007fe91d4d79">
