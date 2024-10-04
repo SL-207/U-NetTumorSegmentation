@@ -1,4 +1,10 @@
 # U-Net Brain Tumor Segmentation
+### Description and Notes
+- Binary semantic segmentation of brain tumor scans
+- U-Net architecture recreated and trained from scratch in PyTorch
+- Trained total of 40 epochs
+- Substantial improvement given lack of epochs (0 to 49.6% F1 score)
+- Smoothed output mask after morphological post-processing
 
 ### Results
 - Loss: 0.055
