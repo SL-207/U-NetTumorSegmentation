@@ -1,11 +1,14 @@
-# UNetTumorSegmentation
+# U-Net Brain Tumor Segmentation
 
 ### Results
-Train vs Validation performance
+- Loss: 0.055
+- F1 Score: 49.6%
+
+**Train Validation performance**
 <img width="864" alt="Screenshot 2024-10-04 at 8 02 37 PM" src="https://github.com/user-attachments/assets/40e2137a-ca0f-42f2-93cb-007fe91d4d79">
 
 
-**Sample Output**
+**Sample Inference Output**
 
 <img width="717" alt="Screenshot 2024-10-04 at 7 43 08 PM" src="https://github.com/user-attachments/assets/391276ba-eb28-4c46-990c-a935ffffec9e">
 
