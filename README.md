@@ -6,6 +6,9 @@
 - Substantial improvement given lack of epochs (0% to 49.6% F1 score)
 - Smoothed output mask after morphological post-processing
 
+### Dataset
+Cheng, Jun (2017). brain tumor dataset. figshare. Dataset. [https://doi.org/10.6084/m9.figshare](url)
+
 ### Results
 **Test Evaluation**
 - Loss: 0.055
